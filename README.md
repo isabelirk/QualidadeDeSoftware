@@ -1,3 +1,3 @@
 # Qualidade De Software
 
-Este repositorio é destinado a estudos sobre qualidade de software (QA).
+Este repositório é destinado à estudos sobre qualidade de software (QA).
